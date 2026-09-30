@@ -5,6 +5,7 @@ namespace Lab5
         public static void Run()
         {
             Console.WriteLine("Enter parameters.");
+            Console.WriteLine("-----------------");
             Console.Write("Total time (T): ");
             double T = InputHandler.ReadDouble(0, double.MaxValue);
             Console.Write("Total intervals (N): ");
@@ -23,6 +24,7 @@ namespace Lab5
             double dt = T / N;
 
             Console.WriteLine();
+            Console.WriteLine("---------------------------------------------------------------------");
             Console.WriteLine("      i      |      t      |      a      |      v      |      y      ");
             Console.WriteLine("---------------------------------------------------------------------");
 

@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("2026-09-29_PHYS-2215_Lab-5")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+dc67162d76084d57700248fe08e6725d71f62815")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0e470b6d5bf03c0caff5875ff11cf7b3882361e7")]
 [assembly: System.Reflection.AssemblyProductAttribute("2026-09-29_PHYS-2215_Lab-5")]
 [assembly: System.Reflection.AssemblyTitleAttribute("2026-09-29_PHYS-2215_Lab-5")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

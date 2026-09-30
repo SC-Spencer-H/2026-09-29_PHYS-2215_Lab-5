@@ -4,13 +4,16 @@ internal class Program
 {
     static void Main()
     {
+        Console.Clear();
         Console.WriteLine("Which method do you want to use?");
+        Console.WriteLine("--------------------------------");
         Console.WriteLine("1 => Simple Euler's Method");
         Console.WriteLine("2 => Improved Euler's Method");
         Console.WriteLine("3 => Simple Euler's Method (With Air Resistance)");
-        Console.WriteLine();
+        Console.WriteLine("--------------------------------");
 
         int input = InputHandler.ReadDigit(1, 3);
+        Console.WriteLine();
 
         switch (input)
         {
